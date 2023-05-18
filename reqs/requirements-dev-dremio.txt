@@ -1,3 +1,4 @@
 pyarrow
 pyodbc>=4.0.30
 sqlalchemy-dremio==1.2.1 # 2.0.1 introduces breaking changes
+numpy>=1.21.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
