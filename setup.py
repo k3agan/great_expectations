@@ -76,13 +76,13 @@ def get_extras_require():
 with open("requirements.txt") as f:
     required = f.read().splitlines()
 
-long_description = "Always know what to expect from your data. (See https://github.com/great-expectations/great_expectations for full description)."
+long_description = "Always know what to expect from your data. (See https://github.com/k3agan/great_expectations for full description)."
 
 config = {
     "description": "Always know what to expect from your data.",
     "author": "The Great Expectations Team",
     "url": "https://greatexpectations.io",
-    "download_url": "https://github.com/great-expectations/great_expectations",
+    "download_url": "https://github.com/k3agan/great_expectations",
     "author_email": "team@greatexpectations.io",
     "version": versioneer.get_version(),
     "cmdclass": versioneer.get_cmdclass(),
