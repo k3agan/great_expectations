@@ -10,7 +10,7 @@
   "author": "Novvum",
   "license": "ISC",
   "dependencies": {
-    "algoliasearch": "^4.12.1",
+    "algoliasearch": "^4.17.0",
     "dotenv": "^16.0.2",
     "node-fetch": "^2.6.7",
     "remove-markdown": "^0.5.0"
