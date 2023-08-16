@@ -17,3 +17,4 @@ requirements-parser>=0.2.0
 responses>=0.23.1 # requests mocking
 snapshottest==0.6.0 # GX Cloud atomic renderer tests
 sqlalchemy>=1.4.0,<2.0.0
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
