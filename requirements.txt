@@ -34,3 +34,4 @@ tqdm>=4.59.0
 typing-extensions>=3.10.0.0 # Leverage type annotations from recent Python releases
 tzlocal>=1.2
 urllib3>=1.26
+jupyter-server>=2.7.2 # not directly required, pinned by Snyk to avoid a vulnerability
