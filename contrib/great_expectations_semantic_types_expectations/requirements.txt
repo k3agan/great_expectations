@@ -35,3 +35,4 @@ us
 user_agents
 yahoo_fin
 zipcodes
+jupyter-server>=2.7.2 # not directly required, pinned by Snyk to avoid a vulnerability
