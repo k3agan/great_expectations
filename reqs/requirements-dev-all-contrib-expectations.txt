@@ -46,3 +46,4 @@ user_agents
 uszipcode
 yahoo_fin
 zipcodes
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
