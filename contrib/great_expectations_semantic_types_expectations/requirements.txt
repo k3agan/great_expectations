@@ -35,3 +35,4 @@ us
 user_agents
 yahoo_fin
 zipcodes
+pydantic>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
